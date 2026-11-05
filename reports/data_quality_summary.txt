@@ -1,0 +1,20 @@
+DATA VALIDATION SUMMARY
+File: Thales_Group_Manufacturing.csv
+Rows: 100,000
+Columns: 14
+Missing cells: 0
+Fully duplicated rows: 0
+Unique machines: 50
+Operation modes: 3
+Efficiency statuses: 3
+Invalid dates: 0
+Invalid combined timestamps: 0
+Duplicate machine + timestamp keys (excluding first): 28
+Rows participating in duplicate machine + timestamp keys: 56
+Combined datetime start: 2025-01-01 00:00:00
+Combined datetime end: 2025-03-10 10:39:00
+
+CAUTIONS
+Duplicate machine/timestamp keys are flagged, not deleted.
+Validate units and engineering limits with an authoritative source.
+Efficiency_Status and Predictive_Maintenance_Score provenance must be confirmed.

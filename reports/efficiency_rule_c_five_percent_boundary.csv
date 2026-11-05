@@ -1,0 +1,8 @@
+Date,Timestamp,Machine_ID,Operation_Mode,Temperature_C,Vibration_Hz,Power_Consumption_kW,Network_Latency_ms,Packet_Loss_%,Quality_Control_Defect_Rate_%,Production_Speed_units_per_hr,Predictive_Maintenance_Score,Error_Rate_%,Efficiency_Status,Rule_C,Label_Match
+11-01-2025,12:17:00,6,Idle,74.065,3.941,1.652,24.153,4.27,4.863,67.845,0.696,5.0,Low,Low,True
+11-01-2025,19:43:00,9,Active,86.593,2.726,6.319,2.763,2.363,7.545,436.121,0.413,5.0,Low,Low,True
+19-01-2025,00:18:00,36,Maintenance,40.926,2.756,8.861,2.241,4.643,4.547,276.89,0.379,5.0,Medium,Medium,True
+23-01-2025,17:04:00,46,Maintenance,57.406,4.315,4.502,30.029,2.491,5.365,402.746,0.943,5.0,Low,Low,True
+23-01-2025,18:15:00,45,Idle,75.751,4.49,4.907,42.975,4.291,3.701,262.709,0.503,5.0,Medium,Medium,True
+07-02-2025,07:54:00,44,Active,59.031,3.485,6.398,40.083,4.175,6.536,382.861,0.47,5.0,Medium,Medium,True
+06-03-2025,04:39:00,10,Idle,89.472,4.25,7.597,2.677,2.717,8.56,255.025,0.355,5.0,Medium,Medium,True

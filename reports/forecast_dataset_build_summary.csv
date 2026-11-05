@@ -1,0 +1,4 @@
+horizon_minutes,unique_pairs,unique_machines,median_actual_lead_minutes,mean_actual_lead_minutes,minimum_pairs_per_machine,maximum_pairs_per_machine,historical_feature_count
+30,37887,50,30.0,30.030511785045004,686,834,48
+60,37211,50,60.0,59.98564940474591,667,823,48
+120,37030,50,120.0,119.98433702403457,659,816,48

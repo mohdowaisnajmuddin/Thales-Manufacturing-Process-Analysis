@@ -1,0 +1,8 @@
+metric,test,statistic,p_value,group_count,interpretation_note
+Production_Speed_units_per_hr,Kruskal-Wallis,5.698101760763882,0.05789924811671215,3,Association across modes; not causal.
+Quality_Control_Defect_Rate_%,Kruskal-Wallis,0.08670810396823095,0.9575722996701267,3,Association across modes; not causal.
+Error_Rate_%,Kruskal-Wallis,1.2911987566561076,0.5243481649741443,3,Association across modes; not causal.
+Temperature_C,Kruskal-Wallis,0.20821138022044117,0.9011300518535327,3,Association across modes; not causal.
+Vibration_Hz,Kruskal-Wallis,2.065518111722335,0.35602331601124315,3,Association across modes; not causal.
+Network_Latency_ms,Kruskal-Wallis,0.9421725490620885,0.6243237128522856,3,Association across modes; not causal.
+Packet_Loss_%,Kruskal-Wallis,1.4155520280639573,0.49273882402325586,3,Association across modes; not causal.

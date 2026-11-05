@@ -1,0 +1,4 @@
+horizon_minutes,tolerance_minutes,total_source_timestamps,matched_sources,unmatched_sources,match_rate_percent,machines,machines_with_match_rate_below_50_percent
+30,15,99972,47171,52801,47.18421157924219,50,50
+60,15,99972,47265,52707,47.27823790661385,50,49
+120,15,99972,47057,52915,47.07017965030209,50,50

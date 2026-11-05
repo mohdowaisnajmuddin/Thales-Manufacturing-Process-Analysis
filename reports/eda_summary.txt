@@ -1,0 +1,17 @@
+EDA SUMMARY
+Records: 100,000
+Machines: 50
+Operation modes: 3
+Combined timestamp parsing failures: 0
+
+Efficiency distribution:
+Low: 77,825 (77.83%)
+Medium: 19,189 (19.19%)
+High: 2,986 (2.99%)
+
+Interpretation cautions:
+Descriptive associations do not establish causation.
+Machine_ID is an identifier and is excluded from numeric correlations.
+Confirm target-label construction before supervised classification.
+Investigate duplicate machine/timestamp keys before time-series modeling.
+The CSV alone does not establish a causal 6G performance effect.

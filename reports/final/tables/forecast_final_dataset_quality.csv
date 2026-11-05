@@ -1,0 +1,4 @@
+horizon_minutes,valid_records,invalid_records_removed,machines,unique_machine_target_pairs,reused_target_groups,repeated_source_groups,future_order_violations,tolerance_violations,minimum_lead_minutes,median_lead_minutes,maximum_lead_minutes,minimum_pairs_per_machine,maximum_pairs_per_machine,mean_pairs_per_machine
+30,37887,0,50,37887,0,0,0,0,15.0,30.0,45.0,686,834,757.74
+60,37211,0,50,37211,0,0,0,0,45.0,60.0,75.0,667,823,744.22
+120,37030,0,50,37030,0,0,0,0,105.0,120.0,135.0,659,816,740.6

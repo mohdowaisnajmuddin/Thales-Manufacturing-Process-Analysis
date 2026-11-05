@@ -1,0 +1,8 @@
+metric,machine_count_total,machine_count_complete,aggregation
+Production_Speed_units_per_hr,50,50,Median per machine per operation mode
+Quality_Control_Defect_Rate_%,50,50,Median per machine per operation mode
+Error_Rate_%,50,50,Median per machine per operation mode
+Temperature_C,50,50,Median per machine per operation mode
+Vibration_Hz,50,50,Median per machine per operation mode
+Network_Latency_ms,50,50,Median per machine per operation mode
+Packet_Loss_%,50,50,Median per machine per operation mode

@@ -1,0 +1,27 @@
+
+            source = group.reset_index().sort_values(
+                "Combined_Timestamp"
+            )
+
+            target = source[
+                ["Combined_Timestamp", SPEED]
+            ].copy()
+
+            target["Combined_Timestamp"] = (
+                target["Combined_Timestamp"]
+                - pd.Timedelta(minutes=horizon)
+            )
+
+            target = target.rename(
+                columns={
+                    SPEED: "Future_Aligned_Speed"
+                }
+            )
+
+            aligned = pd.merge_asof(
+                source,
+                target.sort_values("Combined_Timestamp"),
+                on="Combined_Timestamp",
+                direction="nearest",
+                tolerance=pd.Timedelta(minutes=5)
+            )

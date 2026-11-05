@@ -1,0 +1,4 @@
+horizon_minutes,matched_source_rows,unique_future_timestamps,future_timestamps_reused,sources_using_reused_targets,maximum_target_reuse,actual_lead_min,actual_lead_median,actual_lead_mean,actual_lead_max,lead_p10,lead_p90
+30,47171,37565,8127,17733,7,15.0,30.0,29.861588687965064,45.0,18.0,41.0
+60,47265,36891,8539,18913,7,45.0,60.0,59.91473606262562,75.0,48.0,71.0
+120,47057,36706,8580,18931,7,105.0,120.0,119.95724334317954,135.0,109.0,131.0

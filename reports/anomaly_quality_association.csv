@@ -1,0 +1,3 @@
+Method,Outcome,Anomaly_Records,Normal_Records,Anomaly_Mean,Normal_Mean,Mean_Difference,Anomaly_Median,Normal_Median
+Isolation_Forest_Anomaly,Quality_Control_Defect_Rate_%,1141,28930,4.969517090271691,4.997952125820947,-0.02843503554925597,4.826,4.975
+Isolation_Forest_Anomaly,Error_Rate_%,1141,28930,7.391083260297983,7.492655202212237,-0.101571941914254,7.42,7.466

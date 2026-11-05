@@ -1,0 +1,4 @@
+horizon_minutes,train_boundary_crossing_pairs,validation_boundary_crossing_pairs
+30,10,18
+60,18,35
+120,48,56

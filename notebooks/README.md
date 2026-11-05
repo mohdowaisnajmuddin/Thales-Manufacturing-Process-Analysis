@@ -1,0 +1,1 @@
+Place exploratory notebooks here. Keep final, repeatable analysis in `src/` scripts so results can be regenerated from the command line.

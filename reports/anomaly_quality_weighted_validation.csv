@@ -1,0 +1,3 @@
+Outcome,Valid_Groups,Positive_Groups,Negative_Groups,Equal_Groups,Weighted_Flagged_Mean,Weighted_Normal_Mean,Weighted_Mean_Difference,Unweighted_Group_Mean_Difference
+Quality_Control_Defect_Rate_%,147,72,75,0,4.969517090271688,4.996576016458612,-0.027058926186924737,-0.05174236022984963
+Error_Rate_%,147,68,79,0,7.391083260297983,7.489396889601784,-0.09831362930380116,-0.15912659674424642

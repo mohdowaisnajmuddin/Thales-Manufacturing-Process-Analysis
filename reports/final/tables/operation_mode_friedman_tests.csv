@@ -1,0 +1,8 @@
+metric,test,statistic,p_value,group_count,complete_machine_blocks,kendalls_w,interpretation_note,bh_adjusted_p_value,significant_after_bh_0_05
+Production_Speed_units_per_hr,Friedman,4.680000000000064,0.09632763823048997,3,50,0.04680000000000064,"Machine-blocked comparison; observational association, not causal. Temporal dependence is not explicitly modeled.",0.3371467338067149,False
+Quality_Control_Defect_Rate_%,Friedman,0.4800000000000182,0.7866278610665463,3,50,0.004800000000000182,"Machine-blocked comparison; observational association, not causal. Temporal dependence is not explicitly modeled.",0.9177325045776373,False
+Error_Rate_%,Friedman,0.4800000000000182,0.7866278610665463,3,50,0.004800000000000182,"Machine-blocked comparison; observational association, not causal. Temporal dependence is not explicitly modeled.",0.9177325045776373,False
+Temperature_C,Friedman,3.240000000000009,0.19789869908361377,3,50,0.03240000000000009,"Machine-blocked comparison; observational association, not causal. Temporal dependence is not explicitly modeled.",0.4617636311950988,False
+Vibration_Hz,Friedman,4.960000000000036,0.08374322559219445,3,50,0.049600000000000366,"Machine-blocked comparison; observational association, not causal. Temporal dependence is not explicitly modeled.",0.3371467338067149,False
+Network_Latency_ms,Friedman,0.12000000000000455,0.9417645335842466,3,50,0.0012000000000000454,"Machine-blocked comparison; observational association, not causal. Temporal dependence is not explicitly modeled.",0.9417645335842467,False
+Packet_Loss_%,Friedman,0.7939698492461946,0.6723441613978982,3,50,0.007939698492461946,"Machine-blocked comparison; observational association, not causal. Temporal dependence is not explicitly modeled.",0.9177325045776373,False

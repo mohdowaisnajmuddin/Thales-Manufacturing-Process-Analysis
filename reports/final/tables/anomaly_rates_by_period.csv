@@ -1,0 +1,5 @@
+Method,Period,Records,Anomaly_Count,Anomaly_Rate_Pct
+Robust_Anomaly,Evaluation,30071,0,0.0
+Robust_Anomaly,Reference,69929,0,0.0
+Isolation_Forest_Anomaly,Evaluation,30071,1141,3.794353363705896
+Isolation_Forest_Anomaly,Reference,69929,1456,2.0821118563114016

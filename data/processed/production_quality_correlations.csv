@@ -1,0 +1,13 @@
+Group,X_Variable,Y_Variable,Sample_Size,Pearson_Correlation,Pearson_P_Value,Spearman_Correlation,Spearman_P_Value,Pearson_Interpretation,Spearman_Interpretation
+Overall,Production_Speed_units_per_hr,Error_Rate_%,100000,0.0060695996518574345,0.0549375723935246,0.006072858837616862,0.054807357654984845,Negligible Positive,Negligible Positive
+Overall,Production_Speed_units_per_hr,Quality_Control_Defect_Rate_%,100000,-0.004937696810842839,0.11842307530258084,-0.004949051362626508,0.11757881156253693,Negligible Negative,Negligible Negative
+Overall,Error_Rate_%,Quality_Control_Defect_Rate_%,100000,-0.0014865151830035293,0.6383037500559301,-0.0014864074776421508,0.6383280829450536,Negligible Negative,Negligible Negative
+Active,Production_Speed_units_per_hr,Error_Rate_%,70054,0.004746330884417756,0.20903257585832694,0.0047430101441766825,0.2093513239972652,Negligible Positive,Negligible Positive
+Active,Production_Speed_units_per_hr,Quality_Control_Defect_Rate_%,70054,-0.007060701448318236,0.061651150690406,-0.0070770078318108795,0.061052868475443355,Negligible Negative,Negligible Negative
+Active,Error_Rate_%,Quality_Control_Defect_Rate_%,70054,-0.000746910788080196,0.8432901746123769,-0.0007488391197063123,0.8428908531652297,Negligible Negative,Negligible Negative
+Idle,Production_Speed_units_per_hr,Error_Rate_%,20057,0.015366767238148853,0.029534591323260997,0.015406521795047699,0.029116374790627328,Negligible Positive,Negligible Positive
+Idle,Production_Speed_units_per_hr,Quality_Control_Defect_Rate_%,20057,0.006768591418940573,0.33779169719920454,0.006746731893993761,0.3393542392186729,Negligible Positive,Negligible Positive
+Idle,Error_Rate_%,Quality_Control_Defect_Rate_%,20057,-0.007555245293094837,0.28464491717493184,-0.007512400375309968,0.2873851418659694,Negligible Negative,Negligible Negative
+Maintenance,Production_Speed_units_per_hr,Error_Rate_%,9889,-0.003366212255256428,0.7378465754638862,-0.0033094541723152613,0.7421081881573365,Negligible Negative,Negligible Negative
+Maintenance,Production_Speed_units_per_hr,Quality_Control_Defect_Rate_%,9889,-0.013486025230236178,0.1799242382537676,-0.013558557344322708,0.177593659016277,Negligible Negative,Negligible Negative
+Maintenance,Error_Rate_%,Quality_Control_Defect_Rate_%,9889,0.005553726850445158,0.5808002300513225,0.005450647474052179,0.5878414436990774,Negligible Positive,Negligible Positive

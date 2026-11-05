@@ -1,0 +1,2 @@
+training_rows,testing_rows,training_machines,testing_machines,majority_baseline_accuracy,tree_accuracy,tree_balanced_accuracy,tree_depth,tree_leaf_count,classes
+80090,19910,40,10,0.7787041687594174,0.971672526368659,0.6666666666666666,3,4,"High, Low, Medium"
